@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$LDiOXJBbPMx9uqkbgcOitepGqnMVg8TIQ8uhSGU8BXZ9LnZWknCmO",
+      "nickName": "Bruno",
+      "roleId": 1,
+      "id": 1
+    },
+    {
+      "email": "jackhellowin@gmail.com",
+      "password": "$2a$10$1Z4yFkTeIIdfW3Iye4nJsu.PGMc2z2fa7R6tsUzgRS4ZSBhAsJNmq",
+      "nickName": "Yve",
+      "id": 2
+    },
+    {
+      "email": "jackhellowin.cn@gmail.com",
+      "password": "$2a$10$IaAaWP7RV9PhZ96s9RLR1O0rWrZnv0GN4MbOoWH5f0heFc8aDu2DG",
+      "nickName": "dsaiob",
+      "id": 3
+    },
+    {
+      "email": "jackhellowin.vn@gmail.com",
+      "password": "$2a$10$GfNhu7VHDF1TGD4qPCLUfuWpDwN7f4VBzSX.e1VaKy5mLxDCSbfbK",
+      "nickName": "Yve_dsaiob",
+      "roleId": 1,
+      "id": 4
+    },
+    {
+      "email": "jackhellowin.vvn@gmail.com",
+      "password": "$2a$10$v8IRiakhLLFTpOWcnb4mz.0ThhDGJjJllukdny2QZbyKTI.c8oyKC",
+      "nickName": "嗨搜優",
+      "roleId": 2,
+      "id": 5
+    },
+    {
+      "email": "jackhellowin.vhvn@gmail.com",
+      "password": "$2a$10$5sB3jGdhMWB9S2MRBkD4veQs9Y2.8UaSTUhiuBg4kkdenzXkKxGSW",
+      "nickName": "嗨搜優",
+      "roleId": 2,
+      "id": 6
+    },
+    {
+      "email": "jackhellowin.cnn@gmail.com",
+      "password": "$2a$10$.vUrysmgS561KJIoTh9BO.Wk8F/UGiJ5Sfqxt4qjpjtTfN2NEDpUy",
+      "nickName": "12313",
+      "roleId": 2,
+      "id": 7
+    },
+    {
+      "email": "jackhellowin.vvcn@gmail.com",
+      "password": "$2a$10$YvL9f3lvvBGa5Hv973rt4OU9G6w2WUnQWoNH4exf3pY36pLzzW1Zq",
+      "nickName": "5456",
+      "roleId": 2,
+      "id": 8
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "role": "member"
+    }
+  ],
+  "attractions": [
+    {
+      "id": 1,
+      "name": "矮仔成蝦仁飯",
+      "image": "https://www.welcometw.com/wp-content/uploads/2021/06/%E7%9F%AE%E4%BB%94%E6%88%90%E8%9D%A6%E4%BB%81%E9%A3%AF2-850x851.jpg",
+      "description": "說到台南府城小吃就不能提這獨特的「蝦仁飯」，其中從西元1922年大正時期營業至今的【矮仔成蝦仁飯】已將邁入百年老店，店面也剛換新，讓用餐環境變得更加舒適。蝦仁飯是由高湯與白飯拌炒而成，口感類似日式炊飯，鋪上約十隻真材實料的蝦仁，配上米飯每一口都是幸福，另外建議可以加顆香煎半熟鴨蛋蓋在飯上，配上爆漿的蛋黃更是令人垂涎。",
+      "address": "台南市中西區海安路一段66號",
+      "GoogleRate": 3.7
+    },
+    {
+      "id": 2,
+      "name": "阿明豬心冬粉",
+      "image": "https://www.welcometw.com/wp-content/uploads/2021/11/258328235_364827492077688_6113921985548967105_n-850x851.jpg",
+      "description": "台南最夯的宵夜美食非「阿明豬心冬粉」了，看見店門口長長的排隊人潮，就是它美味的絕佳證明。單純的販售著豬心、豬肝、腰只等豬內臟，搭配上招牌豬腳、腦髓及鴨翅飯，附上薑絲醬油膏沾醬，就是道道暖胃的美食！招牌豬心冬粉，先切成薄片、再高湯川燙，厚度剛好入口的豬心配上湯頭的清爽甘甜，吃一口就懂這些人為甚麼如此趨之若鶩了。",
+      "address": "台南市中西區保安路72號",
+      "GoogleRate": 4.2
+    },
+    {
+      "id": 3,
+      "name": "阿堂鹹粥",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/10/%E9%98%BF%E5%A0%82%E9%B9%B9%E7%B2%A5-IG@-bellastar915-850x851.jpg",
+      "description": "位在西門圓環上的「阿堂鹹粥」，好名聲讓天未亮就有饕客願意犧牲睡眠來排隊，料多實在的綜合鹹粥，集合了店裡四種鹹粥的鮮味，加入土魠魚肉、虱目魚肉、虱目魚肚以及魚皮還有蚵仔，費工處理過的虱目魚，還融入了新鮮油蔥酥及碧綠的韭菜末，米粒分明的每一口，都吃的到口感與湯的鮮甜，搭上炸的酥脆的老油條，泡在鹹粥中糊潤柔軟，真的超好吃！",
+      "address": "台南市中西區西門路一段728號",
+      "GoogleRate": 3.8
+    },
+    {
+      "id": 4,
+      "name": "周氏蝦捲",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/11/%E5%91%A8%E6%B0%8F%E8%9D%A6%E6%8D%B22-4-850x638.jpg",
+      "description": "提到台南美食大家絕對會想到「周氏蝦捲」，至今中南部各地都可見到的周氏蝦捲，其實總店就在安平喔！選用肉質鮮嫩多汁的火燒蝦、加入青蔥、魚漿等候將外皮炸得酥脆，就成為了飄香五十餘年的蝦捲了。",
+      "address": "台南市安平區安平路408-1號",
+      "GoogleRate": 3.9
+    },
+    {
+      "id": 5,
+      "name": "東興蚵嗲",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/11/%E6%9D%B1%E8%88%88%E8%9A%B5%E5%97%B22-4-850x851.jpg",
+      "description": "位於海港邊的安平真是海鮮吃不完，中南部必吃傳統小吃「蚵嗲」在安平也有一家週末常常大排長龍的「東興蚵嗲 」喔！招牌的蚵嗲裡面包入新鮮的牡蠣、清甜的高麗菜、一點點的豬肉絲，裹上特製的粉漿酥炸，一定要記得搭配特別的甜中帶辣的醬油及芥末，一顆只要銅板價，邊走邊逛安平老街也很適合。",
+      "address": "台南市安平區古堡街1號",
+      "GoogleRate": 3.4
+    },
+    {
+      "id": 6,
+      "name": "文章牛肉湯",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/11/%E6%96%87%E7%AB%A0%E7%89%9B%E8%82%89%E6%B9%AF3-2-764x851.jpg",
+      "description": "天未亮就已經大排長龍的牛肉湯，是台南的熱門美食代表。台南知名的牛肉湯有好幾家，而位於安平老街附近的「文章牛肉湯」更是榜上有名。曾是船長的老闆，在中年開始創業，選擇鑽研自己最熱愛的討海人傳統早餐「清燙牛肉湯」，選用當天新鮮配送的善化溫體牛肉，使用牛腩、大骨再加上多種中藥材熬煮高湯，淋在粉紅漂亮牛肉片上，喝起來香醇甘甜、牛肉鮮嫩多汁！再沾上薑絲和醬油膏辣醬，就是最道地的溫體牛肉吃法，而每碗湯都可以免費加湯一次、隨湯還會附贈牛肉燥飯，超級阿莎力的！",
+      "address": "台南市安平區安平路590號。",
+      "GoogleRate": 3.9
+    },
+    {
+      "id": 7,
+      "name": "無名米糕 (炮店米糕)",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/10/%E6%88%AA%E5%9C%96-2020-10-20-%E4%B8%8A%E5%8D%8811.30.19-768x753.png",
+      "description": "「無名米糕」是隱藏在巷弄的台南人氣小吃，因為巷口有間賣煙火的商行掛著炮店招牌，所以無名米糕也被人稱作「炮店米糕」。必點的米糕有大、中、小碗可以選擇，口感濕黏度高，加上滿滿的魚鬆、淋上滷肉汁，最後再放上一顆半熟蛋，味道鹹香美味，店內販售的滷味也非常入味，重點是超級平價的，當然還有讓許多人讚不絕口的綜合湯，配料超豐富、加上白胡椒的口味，也是一道必點佳餚！",
+      "address": "台南市中西區中山路8巷5號。",
+      "GoogleRate": 4.4
+    },
+    {
+      "id": 8,
+      "name": "阿江鱔魚意麵",
+      "image": "https://www.welcometw.com/wp-content/uploads/2020/10/%E6%88%AA%E5%9C%96-2020-10-18-%E4%B8%8B%E5%8D%8810.08.29-850x807.png",
+      "description": "僅次於牛肉湯的「鱔魚意麵」也是另一個經典的台南小吃而台南鱔魚麵裡最令人津津樂道的，就是位在民族路三段的「阿江鱔魚意麵」了。小小舊舊的店面，三十年來人潮總是絡繹不絕，精選的鱔魚肉質和剛好的火候，就是鱔魚意麵好吃的關鍵，經過大火快炒的意麵不會乾膩，而是有彈性且非常入味，不管是乾炒的清脆彈牙，或是勾芡的鮮甜爽口，鹹、甜、酸、辣在嘴裡同時迸發，讓人越吃越上癮，來到台南千萬別忘記來嘗嘗！",
+      "address": "台南市中西區民族路三段89號。",
+      "GoogleRate": 3.8
+    },
+    {
+      "id": 9,
+      "name": "阿伯炭烤黑輪甜不辣",
+      "image": "https://www.welcometw.com/wp-content/uploads/2021/06/%E9%98%BF%E4%BC%AF%E5%86%B0%E5%BA%97-%E6%97%97%E9%AD%9A%E9%BB%91%E8%BC%AA-850x851.jpg",
+      "description": "在邱家小捲米粉斜對面有一家小攤販【阿伯炭烤黑輪甜不辣】只賣甜不辣、黑輪兩種食物，即使找不到攤子，也會令人不禁聞到陣陣飄來的碳烤香。使用手工製作的旗魚魚漿為原料，先酥炸後再用炭火直烤上色，最後撒上點白胡椒，外皮酥脆焦香且口感厚實，現烤現吃不油膩，是國華街散步美食的經典代表之一。",
+      "address": "台南市中西區國華街三段22號。",
+      "GoogleRate": 4
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "userId": 1,
+      "attractionId": [
+        1,
+        5,
+        7,
+        3,
+        8
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
